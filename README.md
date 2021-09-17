@@ -8,7 +8,7 @@ The purpose of this project was to build a simple Spotify recommender that recom
 
 ### Technologies
 * Python
-* pandas, jupyter, scikit-learn, regex, spotipy, matplotlib
+* pandas, numpy, jupyter, scikit-learn, regex, spotipy, matplotlib
 
 ## Project Description
 By using songs from 1912-2020, I have built an automated recommender. To do this I transformed playlist of songs into a single vector and compare the  vector to all the songs not present in the playlist. Once I found the most similar songs, I added them to the playlist.
