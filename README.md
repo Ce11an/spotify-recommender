@@ -9,7 +9,6 @@ A Spotify recommendation engine that can recommend songs based on your playlist.
 * [Requirements](#requirements)
 * [Project Description](#project-description)
 * [Getting Started](#getting-started)
-* [Usage](#usage)
 * [References](#references)
 * [License](#license)
 
