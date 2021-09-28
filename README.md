@@ -3,15 +3,6 @@ A Spotify recommendation engine that can recommend songs based on your playlist.
 
 ### Project Status: Completed
 
-# Table of Contents
-
-* [Project Objective](#project-objective)
-* [Requirements](#requirements)
-* [Project Description](#project-description)
-* [Getting Started](#getting-started)
-* [References](#references)
-* [License](#license)
-
 # Project Objective
 The purpose of this project was to build a simple Spotify recommender that recommends songs based on the songs within a given playlist. Also, for the recommender to add the recommended songs to the playlist.
 
